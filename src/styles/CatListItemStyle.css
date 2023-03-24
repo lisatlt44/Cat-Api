@@ -1,0 +1,10 @@
+.card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.card-header img{
+  max-width: 50%;
+  max-height: 50%;
+}
